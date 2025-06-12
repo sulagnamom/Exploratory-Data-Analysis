@@ -1,6 +1,6 @@
 # Diwali Sales Exploratory-Data-Analysis
 
-**Project Background**
+**1. Project Background**
 
 I worked on a data analysis project using a **Diwali sales dataset**, which captured customer purchase behavior across different states during the festive season in India. The goal was to clean the data, perform **EDA (Exploratory Data Analysis)**, and pull out useful business insights to understand **who buys what**, **from where**, and **why** — basically, helping businesses plan better for festive seasons.
 
